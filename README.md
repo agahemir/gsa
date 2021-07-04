@@ -1,0 +1,2 @@
+# gsa
+Güçlü araçlar.
